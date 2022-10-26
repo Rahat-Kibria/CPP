@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665774106 source:c:\users\rahat\documents\c++ anisul islam ex files\72_destructor\destructor_class.cpp
+	<iostream>
+	"destructor_class.h"
+
+1665774001 c:\users\rahat\documents\c++ anisul islam ex files\72_destructor\destructor_class.h
+
+1665774038 source:c:\users\rahat\documents\c++ anisul islam ex files\72_destructor\main.cpp
+	<iostream>
+	"destructor_class.h"
+

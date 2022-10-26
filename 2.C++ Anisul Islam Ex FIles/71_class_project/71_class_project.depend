@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665773036 source:c:\users\rahat\documents\c++ anisul islam ex files\71_class_project\main.cpp
+	<iostream>
+	"separate_class.h"
+
+1665773266 c:\users\rahat\documents\c++ anisul islam ex files\71_class_project\separate_class.h
+
+1665773366 source:c:\users\rahat\documents\c++ anisul islam ex files\71_class_project\separate_class.cpp
+	<iostream>
+	"separate_class.h"
+
